@@ -1,0 +1,18 @@
+Package: banana-agent
+Version: 1.10.1
+Architecture: amd64
+Maintainer: <@runner-d1ae2f7b-project-166-concurrent-0>
+Installed-Size: 11008
+Pre-Depends: zip, jq, duplicity, python-boto
+Filename: ./dists/unstable/main/binary-amd64/banana-agent_1.10.1_amd64.deb
+Size: 5116380
+MD5sum: 12801b13459e5d4bf19cd2615b8fd7a9
+SHA1: 33788518817c223777533f1983e207ed64675723
+SHA256: 1091a2bed4fe9aab5564d6f4c164fdc6b6b2bed8f9cb015b1ce0666f9924365c
+Section: default
+Priority: extra
+Homepage: http://example.com/no-uri-given
+Description: no description given
+License: unknown
+Vendor: @runner-d1ae2f7b-project-166-concurrent-0
+
