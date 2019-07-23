@@ -4,7 +4,7 @@ Architecture: amd64
 Maintainer: <@7cdb4600a6e7>
 Installed-Size: 10791
 Pre-Depends: zip, jq, duplicity, python-boto
-Filename: ./banana-agent_1.10.1_amd64.deb
+Filename: ./dists/unstable/main/binary-amd64/banana-agent_1.10.1_amd64.deb
 Size: 5091352
 MD5sum: dd9ce2433ca71ff315e31b46fafce71b
 SHA1: 5c01faee39c6794f1836ff58062894bde6e549b1
