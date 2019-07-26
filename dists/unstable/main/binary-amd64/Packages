@@ -17,20 +17,20 @@ License: unknown
 Vendor: @runner-924f4e96-project-166-concurrent-1
 
 Package: bananagent
-Version: 1.12.6
+Version: 1.12.7
 Architecture: amd64
-Maintainer: <@runner-d1ae2f7b-project-166-concurrent-3>
+Maintainer: <@runner-d1ae2f7b-project-166-concurrent-0>
 Installed-Size: 11008
 Pre-Depends: zip, jq, duplicity, python-boto
-Filename: ./dists/unstable/main/binary-amd64/bananagent_1.12.6_amd64.deb
-Size: 5117820
-MD5sum: adc59e00c4b9d7ec25fc989942679089
-SHA1: 1a3e8097f2005262a39e6841f17617300a26dddd
-SHA256: 0ef4ce4b8fd90f37cea8f70b7760b6be056344918a366417db6a50a3f1c50b77
+Filename: ./dists/unstable/main/binary-amd64/bananagent_1.12.7_amd64.deb
+Size: 5117884
+MD5sum: 026bbe3b9dcaa9037f9475fbe1b9a3fc
+SHA1: 871532db094b7d2ac86d90d1f1094fef9b84b851
+SHA256: fce2932e1f69c2c03a933d9574e5299993dfe02f4aa6f0ac6cb4089c5726f297
 Section: default
 Priority: extra
 Homepage: http://example.com/no-uri-given
 Description: no description given
 License: unknown
-Vendor: @runner-d1ae2f7b-project-166-concurrent-3
+Vendor: @runner-d1ae2f7b-project-166-concurrent-0
 
